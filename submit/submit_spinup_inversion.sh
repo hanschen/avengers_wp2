@@ -6,4 +6,5 @@
 #SBATCH --mail-type=all
 #SBATCH --mail-user=hans.chen@chalmers.se
 
-trace ../spinup_inversion.ini
+#trace ../spinup_inversion.ini
+trace ../ideal.ini
